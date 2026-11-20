@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Артур Музафаров](https://up.htmlacademy.ru/ecmascript-individual/3/user/2192621).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгения Подопригора](https://htmlacademy.ru/profile/id2387199).
 
 ---
 
